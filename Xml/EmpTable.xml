@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <EmployeeT>
+    <NvID>4</NvID>
+    <FirstName>Sở</FirstName>
+    <LastName>Khanh</LastName>
+  </EmployeeT>
+  <EmployeeT>
+    <NvID>5</NvID>
+    <FirstName>Thúy</FirstName>
+    <LastName>Kiều</LastName>
+  </EmployeeT>
+  <EmployeeT>
+    <NvID>6</NvID>
+    <FirstName>kim</FirstName>
+    <LastName>Trọng</LastName>
+  </EmployeeT>
+  <EmployeeT>
+    <NvID>7</NvID>
+  </EmployeeT>
+  <EmployeeT>
+    <NvID>8</NvID>
+  </EmployeeT>
+</NewDataSet>

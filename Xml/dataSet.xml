@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <EmployeeT>
+    <NvID>6</NvID>
+    <FirstName>kim</FirstName>
+    <LastName>Trọng</LastName>
+  </EmployeeT>
+  <EmployeeT>
+    <NvID>6</NvID>
+    <FirstName>kim</FirstName>
+    <LastName>Trọng</LastName>
+  </EmployeeT>
+</NewDataSet>
