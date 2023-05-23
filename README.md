@@ -21,4 +21,4 @@ INSERT into Employee (FirstName, LastName) VALUES(N'kim', N'Trọng');
 
 Khi chạy `dotnet watch run` truy cập vào đường dẫn `https://localhost:7216/swagger/` để kiểm tra các API có hoạt động hay không 
 
-Trên đây là 1 ví dụ nhỏ về WebAPI, ngoài ra em cũng có biết về MVC và Single-page, xin a/chị đánh giá và cho em 1 cơ hội việc làm ạ. Em cảm ơn nhiều
+Trên đây là 1 ví dụ nhỏ về WebAPI, ngoài ra em cũng có biết về MVC và Single-page, xin a/chị đánh giá và cho em 1 cơ hội việc làm ạ. Em cảm ơn rất nhiều!
