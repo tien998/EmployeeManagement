@@ -9,12 +9,19 @@ Thay đổi thông tin chuỗi kết nối (connectionString) ở: Models/DbCont
 Mẫu thiết kế CSDL:
 
 -- CREATE database Manager 
+
 use Manager 
+
 CREATE TABLE Employee 
+
 ( 
+
 NvID INT IDENTITY(1,1) PRIMARY KEY, 
+
 FirstName NVARCHAR(255) NULL, 
+
 LastName NVARCHAR(255) NULL, 
+
 ) 
 
 INSERT into Employee (FirstName, LastName) VALUES (N'Sở', N'Khanh');  
