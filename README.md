@@ -1,4 +1,5 @@
 # EmployeeManagement
+API được viết bằng .NET6
 1 dự án ví dụ về API, sử dụng middleware để nhận các yêu cầu (request) và trả về phản hồi (respone) sử dụng ADO kết nối SQL, thực thi thêm, xóa, sửa (CRUD) 
 
 Thay đổi thông tin chuỗi kết nối (connectionString) ở: Models/DbContext.cs - dòng 11
