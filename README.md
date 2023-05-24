@@ -1,5 +1,5 @@
 # EmployeeManagement
-`API được viết bằng .NET6`
+API được viết bằng `.NET6`, có `truy vấn SQLserver` và áp dụng kiến thức `Lập trình hướng đối tượng` 
 
 1 dự án ví dụ về API, sử dụng middleware để nhận các yêu cầu (request) và trả về phản hồi (respone) sử dụng ADO kết nối SQL, thực thi thêm, xóa, sửa (CRUD) 
 
